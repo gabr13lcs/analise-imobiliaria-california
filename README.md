@@ -63,7 +63,6 @@ Este projeto transforma dados brutos de 20.640 blocos residenciais da Califórni
 |---|---|
 | `analise imobiliario.pbix` | Dashboard completo no Power BI |
 | `california_housing.csv` | Dataset exportado via Python |
-| `gerar_dataset.py` | Script Python para geração do CSV |
 
 ---
 
