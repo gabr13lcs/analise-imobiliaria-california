@@ -48,7 +48,7 @@ Este projeto transforma dados brutos de 20.640 blocos residenciais da Califórni
 
 ## 💡 Principais Insights
 
-- A região **Norte** (São Francisco) lidera em preço médio mais baixo
+- A região **Norte** (São Francisco) tem o menor preço médio
 - **Quanto maior a renda do bairro, maior o preço do imóvel** — correlação positiva confirmada
 - Blocos com casas mais antigas concentram renda mediana menor
 - O **Sul** (Los Angeles) concentra a maior densidade de blocos
