@@ -40,16 +40,15 @@ Este projeto transforma dados brutos de 20.640 blocos residenciais da Califórni
 ### Visualizações
 - Mapa geográfico colorido por região (Norte, Centro, Sul)
 - Dispersão: Renda Mediana × Preço
-- Dispersão: Preço × Latitude com linha de tendência
 - Barras: Preço médio por Faixa de Renda e por Região
 - Linha: Preço por idade das residências
-- Filtros interativos por Faixa de Renda, Faixa de Preço e Região
+- Filtros interativos por Faixa de Renda e Região
 
 ---
 
 ## 💡 Principais Insights
 
-- A região **Norte** (São Francisco) lidera em preço médio
+- A região **Norte** (São Francisco) lidera em preço médio mais baixo
 - **Quanto maior a renda do bairro, maior o preço do imóvel** — correlação positiva confirmada
 - Blocos com casas mais antigas concentram renda mediana menor
 - O **Sul** (Los Angeles) concentra a maior densidade de blocos
